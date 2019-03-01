@@ -1,5 +1,5 @@
 # sajfd-hfafbjhd
-IR Course SEO competition
+IR Course SEO competition - https://sites.google.com/view/sajfd-hfafbjhd-srujana-b/home
 For this part, your goal is to put on your "search engine optimization" hat. Your job is to create a webpage that scores highest for the query: sajfd hfafbjhd --- two terms, lower case, no quote. As of today (Jan 24, 2019), there are no hits for this query on either Google or Bing. Based on our discussions of search engine ranking algorithms, you know that several factors may impact a page's rank. Your goal is to use this knowledge to promote your own page to the top of the list.
 What we're doing here is a form of SEO contest. While you have great latitude in how you approach this problem, you are not allowed to engage in any unethical or illegal behavior. Please read the discussion of "white hat" versus "black hat" SEO over at Wikipedia.
 Rules of the game:
